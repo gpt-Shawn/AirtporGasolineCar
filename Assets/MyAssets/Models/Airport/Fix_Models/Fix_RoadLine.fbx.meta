@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: a54a7329b39784d48926d2cf4cf40e9c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: T2_plane:polySurface2741
+    100004: T2_plane:polySurface2748
+    100006: T2_plane:polySurface2761
+    100008: T2_plane:polySurface2765
+    100010: T2_plane:polySurface2778
+    100012: T2_plane:polySurface2793
+    100014: T2_plane:polySurface2799
+    100016: polySurface2773
+    100018: transform1884
+    400000: //RootNode
+    400002: T2_plane:polySurface2741
+    400004: T2_plane:polySurface2748
+    400006: T2_plane:polySurface2761
+    400008: T2_plane:polySurface2765
+    400010: T2_plane:polySurface2778
+    400012: T2_plane:polySurface2793
+    400014: T2_plane:polySurface2799
+    400016: polySurface2773
+    400018: transform1884
+    2100000: white
+    2100002: black
+    2100004: Road_mark_black2
+    2100006: Road_mark_white2
+    2100008: lambert18
+    2100010: lambert19
+    2100012: lambert13
+    2100014: Road_mark_white3
+    2100016: Road_mark_black3
+    2100018: T2_plane_Doubleline_White
+    2100020: yellow_liness
+    2100022: yellow_line
+    2100024: Road_mark_black
+    2100026: Road_mark_white
+    2100028: Red
+    2100030: Road_mark_white_1
+    2100032: Road_mark_black1
+    2100034: White_mark
+    2100036: lambert1
+    2100038: yellow_line_mark
+    2100040: number_D1
+    2100042: Cover
+    2100044: T2RoadSign2
+    2100046: number_C1
+    2100048: number_C2
+    2100050: number_C5
+    2100052: number_C6
+    2100054: number_C7
+    2100056: number_C3
+    2100058: number_C4
+    2100060: number_C10
+    2100062: number_C8
+    2100064: number_C9
+    2100066: lambert24
+    2100068: number_D2
+    2100070: number_D3
+    2100072: number_D4
+    2100074: number_D6
+    2100076: number_D7
+    2100078: number_D5
+    2100080: number_D9
+    2100082: number_D10
+    2100084: number_D8
+    2300000: T2_plane:polySurface2799
+    2300002: polySurface2773
+    3300000: T2_plane:polySurface2799
+    3300002: polySurface2773
+    4300000: T2_plane:polySurface2799
+    4300002: polySurface2773
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

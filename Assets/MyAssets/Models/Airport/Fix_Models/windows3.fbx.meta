@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 2f1fffa08cf20bd4b8b9342a302d0e48
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: polySurface2902
+    100002: polySurface2903
+    100004: polySurface2915
+    100006: polySurface2916
+    100008: polySurface2917
+    100010: polySurface2918
+    100012: polySurface2919
+    100014: polySurface2920
+    100016: polySurface2921
+    100018: polySurface2922
+    100020: polySurface2923
+    100022: polySurface2924
+    100024: polySurface2925
+    100026: polySurface2926
+    100028: polySurface2927
+    100030: polySurface2928
+    100032: polySurface2929
+    100034: polySurface2930
+    100036: polySurface2931
+    100038: polySurface2932
+    100040: polySurface2933
+    100042: polySurface2934
+    100044: polySurface2935
+    100046: polySurface2936
+    100048: polySurface2937
+    100050: polySurface2938
+    100052: polySurface2939
+    100054: polySurface2940
+    100056: polySurface2941
+    100058: polySurface2942
+    100060: polySurface2943
+    100062: polySurface2944
+    100064: polySurface2945
+    100066: polySurface2946
+    100068: Roofs-SKYLIGHT Roofs-SKYLIGHT [318762]
+    100070: Roofs-SKYLIGHT Roofs-SKYLIGHT [318762_2
+    100072: Roofs-SKYLIGHT Roofs-SKYLIGHT [318762_3
+    100074: windows2:pCube212
+    100076: //RootNode
+    400000: polySurface2902
+    400002: polySurface2903
+    400004: polySurface2915
+    400006: polySurface2916
+    400008: polySurface2917
+    400010: polySurface2918
+    400012: polySurface2919
+    400014: polySurface2920
+    400016: polySurface2921
+    400018: polySurface2922
+    400020: polySurface2923
+    400022: polySurface2924
+    400024: polySurface2925
+    400026: polySurface2926
+    400028: polySurface2927
+    400030: polySurface2928
+    400032: polySurface2929
+    400034: polySurface2930
+    400036: polySurface2931
+    400038: polySurface2932
+    400040: polySurface2933
+    400042: polySurface2934
+    400044: polySurface2935
+    400046: polySurface2936
+    400048: polySurface2937
+    400050: polySurface2938
+    400052: polySurface2939
+    400054: polySurface2940
+    400056: polySurface2941
+    400058: polySurface2942
+    400060: polySurface2943
+    400062: polySurface2944
+    400064: polySurface2945
+    400066: polySurface2946
+    400068: Roofs-SKYLIGHT Roofs-SKYLIGHT [318762]
+    400070: Roofs-SKYLIGHT Roofs-SKYLIGHT [318762_2
+    400072: Roofs-SKYLIGHT Roofs-SKYLIGHT [318762_3
+    400074: windows2:pCube212
+    400076: //RootNode
+    2100000: lambert2
+    2300000: polySurface2902
+    2300002: polySurface2903
+    2300004: polySurface2915
+    2300006: polySurface2916
+    2300008: polySurface2917
+    2300010: polySurface2918
+    2300012: polySurface2919
+    2300014: polySurface2920
+    2300016: polySurface2921
+    2300018: polySurface2922
+    2300020: polySurface2923
+    2300022: polySurface2924
+    2300024: polySurface2925
+    2300026: polySurface2926
+    2300028: polySurface2927
+    2300030: polySurface2928
+    2300032: polySurface2929
+    2300034: polySurface2930
+    2300036: polySurface2931
+    2300038: polySurface2932
+    2300040: polySurface2933
+    2300042: polySurface2934
+    2300044: polySurface2935
+    2300046: polySurface2936
+    2300048: polySurface2937
+    2300050: polySurface2938
+    2300052: polySurface2939
+    2300054: polySurface2940
+    2300056: polySurface2941
+    2300058: polySurface2942
+    2300060: polySurface2943
+    2300062: polySurface2944
+    2300064: polySurface2945
+    2300066: polySurface2946
+    2300068: Roofs-SKYLIGHT Roofs-SKYLIGHT [318762_2
+    2300070: windows2:pCube212
+    3300000: polySurface2902
+    3300002: polySurface2903
+    3300004: polySurface2915
+    3300006: polySurface2916
+    3300008: polySurface2917
+    3300010: polySurface2918
+    3300012: polySurface2919
+    3300014: polySurface2920
+    3300016: polySurface2921
+    3300018: polySurface2922
+    3300020: polySurface2923
+    3300022: polySurface2924
+    3300024: polySurface2925
+    3300026: polySurface2926
+    3300028: polySurface2927
+    3300030: polySurface2928
+    3300032: polySurface2929
+    3300034: polySurface2930
+    3300036: polySurface2931
+    3300038: polySurface2932
+    3300040: polySurface2933
+    3300042: polySurface2934
+    3300044: polySurface2935
+    3300046: polySurface2936
+    3300048: polySurface2937
+    3300050: polySurface2938
+    3300052: polySurface2939
+    3300054: polySurface2940
+    3300056: polySurface2941
+    3300058: polySurface2942
+    3300060: polySurface2943
+    3300062: polySurface2944
+    3300064: polySurface2945
+    3300066: polySurface2946
+    3300068: Roofs-SKYLIGHT Roofs-SKYLIGHT [318762_2
+    3300070: windows2:pCube212
+    4300000: windows2:pCube212
+    4300002: polySurface2917
+    4300004: polySurface2918
+    4300006: polySurface2919
+    4300008: polySurface2920
+    4300010: polySurface2921
+    4300012: polySurface2922
+    4300014: polySurface2923
+    4300016: polySurface2924
+    4300018: polySurface2925
+    4300020: polySurface2926
+    4300022: polySurface2927
+    4300024: polySurface2928
+    4300026: polySurface2929
+    4300028: polySurface2930
+    4300030: polySurface2931
+    4300032: polySurface2932
+    4300034: polySurface2933
+    4300036: polySurface2934
+    4300038: polySurface2935
+    4300040: polySurface2936
+    4300042: polySurface2937
+    4300044: polySurface2938
+    4300046: polySurface2939
+    4300048: polySurface2940
+    4300050: polySurface2941
+    4300052: polySurface2942
+    4300054: polySurface2943
+    4300056: polySurface2944
+    4300058: polySurface2945
+    4300060: polySurface2946
+    4300062: Roofs-SKYLIGHT Roofs-SKYLIGHT [318762_2
+    4300064: polySurface2902
+    4300066: polySurface2903
+    4300068: polySurface2915
+    4300070: polySurface2916
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

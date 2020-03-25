@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: fda1293b267ad46478f82d0ad3cc71ea
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: polySurface2773
+    100004: polySurface2792
+    100006: polySurface2804
+    100008: polySurface2819
+    100010: polySurface2882
+    100012: polySurface2902
+    100014: T2_plane:polySurface2741
+    100016: T2_plane:polySurface2748
+    100018: T2_plane:polySurface2761
+    100020: T2_plane:polySurface2765
+    100022: T2_plane:polySurface2778
+    100024: T2_plane:polySurface2793
+    100026: T2_plane:polySurface2799
+    400000: //RootNode
+    400002: polySurface2773
+    400004: polySurface2792
+    400006: polySurface2804
+    400008: polySurface2819
+    400010: polySurface2882
+    400012: polySurface2902
+    400014: T2_plane:polySurface2741
+    400016: T2_plane:polySurface2748
+    400018: T2_plane:polySurface2761
+    400020: T2_plane:polySurface2765
+    400022: T2_plane:polySurface2778
+    400024: T2_plane:polySurface2793
+    400026: T2_plane:polySurface2799
+    2100000: white
+    2100002: black
+    2100004: Road_mark_black2
+    2100006: Road_mark_white2
+    2100008: lambert18
+    2100010: lambert19
+    2100012: lambert13
+    2100014: Road_mark_white3
+    2100016: Road_mark_black3
+    2100018: T2_plane_Doubleline_White
+    2100020: yellow_line
+    2100022: Road_mark_black
+    2100024: Road_mark_white
+    2100026: Red
+    2100028: Road_mark_white_1
+    2100030: Road_mark_black1
+    2100032: White_mark
+    2100034: lambert1
+    2100036: yellow_line_mark
+    2100038: number_D1
+    2100040: Cover
+    2100042: T2RoadSign2
+    2100044: number_C1
+    2100046: number_C2
+    2100048: number_C5
+    2100050: number_C6
+    2100052: number_C7
+    2100054: number_C3
+    2100056: number_C4
+    2100058: number_C10
+    2100060: number_C8
+    2100062: number_C9
+    2100064: lambert24
+    2100066: number_D2
+    2100068: number_D3
+    2100070: number_D4
+    2100072: number_D6
+    2100074: number_D7
+    2100076: number_D5
+    2100078: number_D9
+    2100080: number_D10
+    2100082: number_D8
+    2300000: polySurface2902
+    3300000: polySurface2902
+    4300000: polySurface2902
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
