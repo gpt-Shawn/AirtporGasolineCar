@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: f7712e07eca6d454abf68136c92285de
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: polySurface2655_polySurfaceShape2659
+    100002: //RootNode
+    100004: T2_plane:pasted__polySurface2662
+    100006: T2_plane:polySurface2738
+    100008: T2_plane:polySurface2741
+    100010: T2_plane:polySurface2748
+    100012: T2_plane:polySurface2761
+    100014: T2_plane:polySurface2765
+    100016: T2_plane:polySurface2778
+    100018: T2_plane:polySurface2793
+    100020: T2_plane:polySurface2799
+    100022: T2_plane:pPlane3
+    400000: polySurface2655_polySurfaceShape2659
+    400002: //RootNode
+    400004: T2_plane:pasted__polySurface2662
+    400006: T2_plane:polySurface2738
+    400008: T2_plane:polySurface2741
+    400010: T2_plane:polySurface2748
+    400012: T2_plane:polySurface2761
+    400014: T2_plane:polySurface2765
+    400016: T2_plane:polySurface2778
+    400018: T2_plane:polySurface2793
+    400020: T2_plane:polySurface2799
+    400022: T2_plane:pPlane3
+    2100000: lambert27
+    2100002: WalkSide
+    2100004: pasted__Green
+    2100006: Green
+    2100008: white
+    2100010: black
+    2100012: Road_mark_black2
+    2100014: Road_mark_white2
+    2100016: lambert18
+    2100018: lambert19
+    2100020: lambert13
+    2100022: Road_mark_white3
+    2100024: Road_mark_black3
+    2100026: T2_plane_Doubleline_White
+    2100028: yellow_liness
+    2100030: yellow_line
+    2100032: Road_mark_black
+    2100034: Road_mark_white
+    2100036: Red
+    2100038: Road_mark_white_1
+    2100040: Road_mark_black1
+    2100042: White_mark
+    2100044: lambert1
+    2100046: number_D1
+    2100048: Cover
+    2100050: T2RoadSign2
+    2100052: number_C1
+    2100054: number_C2
+    2100056: number_C5
+    2100058: number_C6
+    2100060: number_C7
+    2100062: number_C3
+    2100064: number_C4
+    2100066: number_C10
+    2100068: number_C8
+    2100070: number_C9
+    2100072: lambert24
+    2100074: number_D2
+    2100076: number_D3
+    2100078: number_D4
+    2100080: number_D6
+    2100082: number_D7
+    2100084: number_D5
+    2100086: number_D9
+    2100088: number_D10
+    2100090: number_D8
+    2300000: polySurface2655_polySurfaceShape2659
+    2300002: T2_plane:pasted__polySurface2662
+    2300004: T2_plane:polySurface2799
+    2300006: T2_plane:pPlane3
+    3300000: polySurface2655_polySurfaceShape2659
+    3300002: T2_plane:pasted__polySurface2662
+    3300004: T2_plane:polySurface2799
+    3300006: T2_plane:pPlane3
+    4300000: T2_plane:pPlane3
+    4300002: polySurface2655_polySurfaceShape2659
+    4300004: T2_plane:pasted__polySurface2662
+    4300006: T2_plane:polySurface2799
+    6400000: polySurface2655_polySurfaceShape2659
+    6400002: T2_plane:pasted__polySurface2662
+    6400004: T2_plane:polySurface2799
+    6400006: T2_plane:pPlane3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

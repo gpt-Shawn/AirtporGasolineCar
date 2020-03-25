@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 931f91ec3215cbb4f921aba2eacc268e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: black
+    2100002: white
+    2100004: Road_mark_black3
+    2100006: Road_mark_white3
+    2100008: lambert2
+    2100010: yellow_line
+    2100012: T2_plane_Doubleline_White
+    2100014: lambert18
+    2100016: lambert19
+    2100018: doubleline_dis1
+    2100020: lambert13
+    2100022: lambert41
+    2100024: T2RoadSign2
+    2100026: Cover
+    2100028: pasted__Road_mark_black
+    2100030: pasted__Road_mark_white
+    2100032: Green
+    2100034: Road_mark_black
+    2100036: Road_mark_white
+    2100038: pasted__pasted__Road_mark_Y5
+    2100040: pasted__black5
+    2100042: pasted__pasted__Road_mark_Y4
+    2100044: marknumber2
+    2100046: marknumber
+    2100048: doubleline_dis
+    2100050: pasted__Road_mark_Y
+    2100052: doubleline_dis2
+    2100054: pasted__Road_mark_black3
+    2100056: pasted__Road_mark_black2
+    2100058: pasted__Road_mark_white2
+    2100060: Red
+    2100062: White_mark
+    2100064: lambert42
+    2100066: pasted__pasted__Road_mark_Y8
+    2100068: pasted__black6
+    2100070: pasted__pasted__Road_mark_Y6
+    2100072: pasted__doubleline_dis
+    2100074: pasted__pasted__Road_mark_Y3
+    2100076: pasted__black4
+    2100078: pasted__pasted__Road_mark_Y2
+    2100080: pasted__black3
+    2100082: pasted__black2
+    2100084: pasted__yellow_line
+    2100086: pasted__black1
+    2100088: pasted__white1
+    2100090: pasted__Road_mark_white3
+    2100092: pasted__Road_mark_black5
+    2100094: pasted__Road_mark_Y2
+    2100096: marknumber3
+    2100098: lambert80
+    2100100: Road_mark_black2
+    2100102: Road_mark_white2
+    2100104: Road_mark_white_1
+    2100106: Road_mark_black1
+    2100108: doubleline_dis3
+    2100110: yellow_line_mark
+    2100112: number_C1
+    2100114: number_C2
+    2100116: number_C5
+    2100118: number_C6
+    2100120: number_C7
+    2100122: number_C3
+    2100124: number_C4
+    2100126: number_C10
+    2100128: number_C8
+    2100130: number_C9
+    2100132: lambert24
+    2100134: number_D1
+    2100136: number_D2
+    2100138: number_D3
+    2100140: number_D4
+    2100142: number_D6
+    2100144: number_D7
+    2100146: number_D5
+    2100148: number_D9
+    2100150: number_D10
+    2100152: number_D8
+    2100154: marknumber4
+    2100156: White_mark_runway
+    2100158: XX
+    2100160: pasted__black7
+    2100162: pasted__pasted__Road_mark_Y7
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: ribbonMesh2550
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
