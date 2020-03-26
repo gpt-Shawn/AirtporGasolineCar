@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 18d980f5d762126438f5ee4dd2b9011e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group1
+    100004: group2
+    100006: polySurface1873
+    100008: polySurface2189
+    100010: polySurface2715
+    100012: polySurface2717
+    100014: polySurface2718
+    100016: polySurface2722
+    100018: polySurface2725
+    100020: polySurface2763
+    100022: polySurface2764
+    100024: T2-N-long T2-N-long [420172]
+    100026: T2-N-long T2-N-long [420172_
+    100028: T2_plane:polySurface2738
+    100030: T2_plane:polySurface2739
+    100032: T2_plane:polySurface2740
+    100034: T2_plane:polySurface2741
+    100036: T2_plane:polySurface2743
+    100038: T2_plane:polySurface2744
+    100040: T2_plane:polySurface2745
+    100042: T2_plane:polySurface2746
+    100044: T2_plane:polySurface2747
+    400000: //RootNode
+    400002: group1
+    400004: group2
+    400006: polySurface1873
+    400008: polySurface2189
+    400010: polySurface2715
+    400012: polySurface2717
+    400014: polySurface2718
+    400016: polySurface2722
+    400018: polySurface2725
+    400020: polySurface2763
+    400022: polySurface2764
+    400024: T2-N-long T2-N-long [420172]
+    400026: T2-N-long T2-N-long [420172_
+    400028: T2_plane:polySurface2738
+    400030: T2_plane:polySurface2739
+    400032: T2_plane:polySurface2740
+    400034: T2_plane:polySurface2741
+    400036: T2_plane:polySurface2743
+    400038: T2_plane:polySurface2744
+    400040: T2_plane:polySurface2745
+    400042: T2_plane:polySurface2746
+    400044: T2_plane:polySurface2747
+    2100000: T1_B1
+    2100002: T1_A1
+    2100004: T1_A9
+    2100006: lambert9
+    2100008: lambert1
+    2100010: T1_B7
+    2300000: polySurface1873
+    2300002: polySurface2189
+    2300004: polySurface2715
+    2300006: polySurface2718
+    2300008: polySurface2722
+    2300010: polySurface2725
+    2300012: polySurface2763
+    2300014: polySurface2764
+    2300016: T2-N-long T2-N-long [420172]
+    2300018: T2_plane:polySurface2739
+    2300020: T2_plane:polySurface2740
+    2300022: T2_plane:polySurface2743
+    2300024: T2_plane:polySurface2744
+    2300026: T2_plane:polySurface2745
+    2300028: T2_plane:polySurface2746
+    2300030: T2_plane:polySurface2747
+    3300000: polySurface1873
+    3300002: polySurface2189
+    3300004: polySurface2715
+    3300006: polySurface2718
+    3300008: polySurface2722
+    3300010: polySurface2725
+    3300012: polySurface2763
+    3300014: polySurface2764
+    3300016: T2-N-long T2-N-long [420172]
+    3300018: T2_plane:polySurface2739
+    3300020: T2_plane:polySurface2740
+    3300022: T2_plane:polySurface2743
+    3300024: T2_plane:polySurface2744
+    3300026: T2_plane:polySurface2745
+    3300028: T2_plane:polySurface2746
+    3300030: T2_plane:polySurface2747
+    4300000: polySurface2189
+    4300002: polySurface1873
+    4300004: T2-N-long T2-N-long [420172]
+    4300006: polySurface2725
+    4300008: polySurface2718
+    4300010: polySurface2764
+    4300012: polySurface2715
+    4300014: polySurface2722
+    4300016: polySurface2763
+    4300018: T2_plane:polySurface2739
+    4300020: T2_plane:polySurface2740
+    4300022: T2_plane:polySurface2743
+    4300024: T2_plane:polySurface2744
+    4300026: T2_plane:polySurface2745
+    4300028: T2_plane:polySurface2746
+    4300030: T2_plane:polySurface2747
+    6400000: polySurface1873
+    6400002: polySurface2189
+    6400004: polySurface2715
+    6400006: polySurface2718
+    6400008: polySurface2722
+    6400010: polySurface2725
+    6400012: polySurface2763
+    6400014: polySurface2764
+    6400016: T2-N-long T2-N-long [420172]
+    6400018: T2_plane:polySurface2739
+    6400020: T2_plane:polySurface2740
+    6400022: T2_plane:polySurface2743
+    6400024: T2_plane:polySurface2744
+    6400026: T2_plane:polySurface2745
+    6400028: T2_plane:polySurface2746
+    6400030: T2_plane:polySurface2747
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
